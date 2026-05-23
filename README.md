@@ -1,16 +1,38 @@
-## Hi there 👋
+# Agent3Law —— 智能体三件套（3Law · 三件套）
 
-<!--
-**agent3law/agent3law** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**英文全称**：Agent3Law  
+**英文简称**：3Law  
+**中文全称**：智能体三件套  
+**中文简称**：三件套  
 
-Here are some ideas to get you started:
+> 致敬阿西莫夫机器人三定律，用三条底层规则，定义每一个智能体。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 这个称呼是怎么来的？
+
+在小龙虾（OpenClaw）等开源智能体生态里，大家一直用“灵魂文件”“性格文件”“用户文件”等叫法，指代那几个最核心的配置文件。这些叫法虽然形象，却始终没有一个统一的、能概括整体的概念。
+
+于是，我把它们放在一起，提出了 **“智能体三件套”** 这个概念。  
+它的英文全称 **Agent3Law**，是在向科幻大师 **艾萨克·阿西莫夫** 的 **机器人三定律（Three Laws of Robotics）** 致敬。  
+为了方便传播，我把它简称为 **3Law**，中文直接叫 **三件套**。
+
+正如阿西莫夫的三条铁律规定了机器人的行为底线，3Law（三件套）也规定了智能体的底层运行逻辑。
+
+## 3Law（三件套）是哪三件？
+
+目前，它被我规定为以下三个最底层的配置文件：
+
+- **灵魂文件** (`SOUL.md`)  
+  规定了智能体的核心人格、价值观和底层行为准则。
+
+- **性格文件** (`IDENTITY.md`)  
+  规定了智能体的身份、语气、行为风格和对外表达方式。
+
+- **用户文件** (`USER.md`)  
+  规定了智能体对当前用户的认知、偏好记忆和个性化交互方式。
+
+这三个文件，共同构成了一个智能体的“本性”，是它一切行为和对话的起点。
+
+---
+
+🚀 **3Law，让智能体有魂、有格、有记忆。**
+🚀 **3Law — Give every agent a soul, an identity, and a memory.**
